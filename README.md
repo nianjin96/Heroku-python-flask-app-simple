@@ -193,3 +193,5 @@ you will see 'Hello World!'
 ## Acknowledgments
 
 * http://www.gtlambert.com/blog/deploy-flask-app-to-heroku
+* https://xiaosean.github.io/server/2018-04-11-Flask_Heroku/
+
